@@ -1,39 +1,39 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "toTask",
+    subtitle: "React Application",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
+      "An app for posting and accepting tasks to be completed",
+    image: "./toTask.png",
+    link: "https://to-task-app.herokuapp.com/",
+  },
+  {
+    title: "codeChat",
+    subtitle: "SQL and Handlebars",
+    description:
+      "codeChat is a blog space for tech talk",
+    image: "./codeChat.png",
+    link: "https://ch-14-mvc-blog-spot.herokuapp.com/login",
+  },
+  {
+    title: "gotMilk Grocery",
+    subtitle: "React Application",
+    description:
+      "An App to make a trip to the grocery store easier",
+    image: "./gotMilk.png",
     link: "https://reactbootcamp.com",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Cards for Jokes",
+    subtitle: "Front End Game",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
-  },
-  {
-    title: "DevChat",
-    subtitle: "React and Firebase",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
-  },
-  {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+      "A funny card game",
+    image: "./cardsForJokes.png",
+    link: "https://danielstewart914.github.io/cards-for-jokes",
   },
 ];
 
-// export const testimonials = [
+// export const resume = [
 //   {
 //     quote:
 //       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
