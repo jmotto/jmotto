@@ -21,7 +21,7 @@ export const projects = [
     description:
       "An App to make a trip to the grocery store easier",
     image: "./gotMilk.png",
-    link: "https://reactbootcamp.com",
+    link: "https://got-milk-grocery.herokuapp.com/",
   },
   {
     title: "Cards for Jokes",
